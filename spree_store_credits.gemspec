@@ -31,6 +31,5 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'sass-rails'
   # s.add_development_dependency 'coffee-rails'
   s.add_development_dependency 'spree_sample', "~> 1.1.0"
-  s.add_development_dependency 'debugger'
 end
 
